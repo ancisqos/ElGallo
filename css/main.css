@@ -190,6 +190,12 @@ li{
     /*padding-left: 10px;*/
     word-spacing: 5px !important;
 }
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
 /*========================
 INTRO CONTAINER
 =========================*/
