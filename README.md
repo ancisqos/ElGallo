@@ -1,4 +1,6 @@
-Restaurant
+El Gallo
 ==========
 
-A template for Restaurant business
+Authentic Mexican Cuisine
+
+197 Diamond Bridge, Hawthorne NJ 
