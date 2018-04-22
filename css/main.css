@@ -283,7 +283,7 @@ INTRO CONTAINER
     background: url('../images/directions.jpg') no-repeat center center; 
     background-size: cover;
     background-position: 70% 50%;
-    /*catering*/
+    /*directions*/
 }
  .featured.background_content{
     background: url('../images/roozter.jpg') no-repeat center center; 
@@ -295,14 +295,17 @@ INTRO CONTAINER
  .pricing.background_content{
     background: url('../images/ingredients.jpg') no-repeat center center; 
     background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    background-position: 70% 50%;
+    /*background-attachment: fixed;*/
+    /*menu*/
 }
 .reservation.background_content{
     background: url('../images/mayan.jpg') no-repeat center center; 
     background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    background-position: 70% 50%;
+    /*background-attachment: fixed;*/
+    /*catering*/
+
 }
 /*.bread.background_content{
     background: url('../images/breakfast.jpg') no-repeat center center; 
