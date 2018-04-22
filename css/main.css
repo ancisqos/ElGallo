@@ -871,3 +871,9 @@ MEDIA QUERIE DESKTOP
         font-size: 30px;
     }
 }
+
+@media only screen and (max-width: 900px) {
+    .mobile-image {
+        width: 75px;
+    }
+}
