@@ -288,8 +288,8 @@ INTRO CONTAINER
  .featured.background_content{
     background: url('../images/roozter.jpg') no-repeat center center; 
     background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
+    background-position: 70% 50%;
+    /*background-attachment: fixed;*/
     /*contact*/
 }
  .pricing.background_content{
