@@ -280,13 +280,13 @@ INTRO CONTAINER
 }
 
 .bread.background_content{
-    background: url('../images/directions1.jpg') no-repeat center center; 
+    background: url('../images/directions.jpg') no-repeat center center; 
     background-size: cover;
     background-position: 70% 50%;
     /*catering*/
 }
  .featured.background_content{
-    background: url('../images/roozter1.jpg') no-repeat center center; 
+    background: url('../images/roozter.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -299,7 +299,7 @@ INTRO CONTAINER
     background-attachment: fixed;
 }
 .reservation.background_content{
-    background: url('../images/mayan1.jpg') no-repeat center center; 
+    background: url('../images/mayan.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
