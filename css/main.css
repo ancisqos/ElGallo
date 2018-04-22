@@ -276,18 +276,21 @@ INTRO CONTAINER
     /*^^^ this is for the PHOTOS section*/
     background-size: cover;
     background-position: 70% 50%;
+    /*photos*/
 }
 
 .bread.background_content{
-    background: url('../images/bread.jpg') no-repeat center center; 
+    background: url('../images/directions.jpg') no-repeat center center; 
     background-size: cover;
     background-position: 70% 50%;
+    /*catering*/
 }
  .featured.background_content{
     background: url('../images/roozter.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    /*contact*/
 }
  .pricing.background_content{
     background: url('../images/pricing.jpg') no-repeat center center; 
@@ -296,17 +299,17 @@ INTRO CONTAINER
     background-attachment: fixed;
 }
 .reservation.background_content{
-    background: url('../images/reservation-seat.jpg') no-repeat center center; 
+    background: url('../images/mayan.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
-.bread.background_content{
+/*.bread.background_content{
     background: url('../images/breakfast.jpg') no-repeat center center; 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-}
+}*/
 /*========================
 DESCRIPTION BODY CONTENT
 =========================*/
